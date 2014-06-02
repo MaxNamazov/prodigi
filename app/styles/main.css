@@ -7294,6 +7294,9 @@ td.visible-print {
 .fa-plus-square-o:before {
   content: "\f196";
 }
+body {
+  background: #eeeeee url(../images/noisebg.png);
+}
 header {
   margin-left: -15px;
   margin-right: -15px;
